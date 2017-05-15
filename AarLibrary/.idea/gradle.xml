@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/flyco-tablayout-lib" />
+            <option value="$PROJECT_DIR$/fragmentation-lib" />
+            <option value="$PROJECT_DIR$/jsbridge-library" />
+            <option value="$PROJECT_DIR$/number-progressbar-lib" />
+            <option value="$PROJECT_DIR$/toasty-lib" />
+            <option value="$PROJECT_DIR$/x-refresh-library" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

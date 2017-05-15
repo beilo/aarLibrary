@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AarLibrary.iml" filepath="$PROJECT_DIR$/AarLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flyco-tablayout-lib/flyco-tablayout-lib.iml" filepath="$PROJECT_DIR$/flyco-tablayout-lib/flyco-tablayout-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentation-lib/fragmentation-lib.iml" filepath="$PROJECT_DIR$/fragmentation-lib/fragmentation-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsbridge-library/jsbridge-library.iml" filepath="$PROJECT_DIR$/jsbridge-library/jsbridge-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/number-progressbar-lib/number-progressbar-lib.iml" filepath="$PROJECT_DIR$/number-progressbar-lib/number-progressbar-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toasty-lib/toasty-lib.iml" filepath="$PROJECT_DIR$/toasty-lib/toasty-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/x-refresh-library/x-refresh-library.iml" filepath="$PROJECT_DIR$/x-refresh-library/x-refresh-library.iml" />
+    </modules>
+  </component>
+</project>
